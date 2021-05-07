@@ -11,12 +11,6 @@
       "text": "Learn React",
       "day": "6th May 10:00am",
       "reminder": true
-    },
-    {
-      "id": 3,
-      "text": "Check for jobs on linkedin",
-      "day": "6th May 3:00pm",
-      "reminder": false
     }
   ]
 }
